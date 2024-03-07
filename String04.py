@@ -7,4 +7,7 @@ def main():
         str: return answer.
     """
     s = "s"
-    return 
+    if s==str:
+        return ""
+    return None
+print(main())

@@ -6,4 +6,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    s="*****"
+    return len(s)==5
+print(main())
